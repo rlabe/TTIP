@@ -46,34 +46,36 @@ La classification des biens commercialisés entre les Parties est gouvernée par
 
 ### X.6. [US: Exonération des Droits de Douane
 
-1. No Party shall adopt any new waiver of customs duties, or expand with respect to existing recipients or extend to any new recipient the application of an existing waiver of customs duties, where the waiver is conditioned, explicitly or implicitly, on the fulfillment of a performance requirement.
+1. Aucune Partie n'adopte de nouvele exemption de droits de douane, ou n'élargit à l'égard de bénéficiaires actuels ou n'étend à un nouveau bénéficiaire l'application d'une exemption de droits de douane existante, lorsque l'exemption est conditionnée, explicitement ou implicitement, par le respect d'une prescription de résultats. 
 
-2. No Party shall, explicitly or implicitly, condition on the fulfillment of a performance requirement the continuation of any existing waiver of customs duties.]
+2. Aucune Partie ne conditionne, explicitement ou implicitement,la prolongation d'une exemption de droits de douane existante au respect d'une prescription de résultats.]
+
+(NdT : sur la notion de prescription de résultats : http://www.sice.oas.org/dictionary/TNTM_f.asp) 
 
 ### X.7. [US: Admission Temporaire des Biens
 
-1. Each Party shall grant duty-free temporary admission for the following goods, regardless of their origin:
-  1. professional equipment, including equipment for the press or television, software, and broadcasting and cinematographic equipment, necessary for carrying out the business activity, trade, or profession of a person who qualifies for temporary entry pursuant to the laws of the importing Party;
-  2. goods intended for display or demonstration, including their competent parts, ancillary apparatus, and accessories;
-  3. commercial samples and advertising films and recordings; and
-  4. goods admitted for sports purposes.
+1. Chaque partie accorde une admission temporaire hors taxe pour les biens suivants, peu importe leur origine:
+  1. L'équipement professionnel, y compris de l'équipement pour la presse ou la télévésion, un logiciel, et de l'équipement de diffusion et de cinématographie, nécessaire à l'exercice d'une activité économique, commerciale, ou professionnelle d'une personne qui a accès à l'entrée temporaire conformément aux lois de la Partie importatrice;
+  2. Les biens destinés à l'exposition ou la démonstration, en ce compris leurs parties compétentes, leurs appareils auxiliaires et leurs accessoires; et  
+  3. Les échantillons commerciaux et les films etenregistrements publicitaires; et
+  4. Les biens admis à des fins sportives.
 
-2. No Party shall condition the duty-free temporary admission of a good referred to in paragraph 1, other than to require that the good:
-  1. be used solely by or under the personal supervision of a national or resident of a Party in the exercise of the business activity, trade, profession, or sport of that person;
-  2. not be sold or leased while in its territory;
-  3. be accompanied by a security in an amount no greater than the charges that would otherwise be owed on entry or final importation, releasable on exportation of the good;
-  4. be capable of identification when exported;
-  5. be exported on the departure of the person referenced in subparagraph (a), or within such other period related to the purpose of the temporary admission as the Party may establish, or within one year, unless extended;
-  6. be admitted in no greater quantity than is reasonable for its intended use; and
-  7. be otherwise admissible into the Party's territory under its law.
+2. Aucune Partie ne conditionne l'admission temporaire hors taxe d'un bien visé par le premier paragraphe sauf à requérir que le bien: 
+  1. soit uniquement utilisé par ou sous la supervision personnelle d'un ressortissant ou d'un résident d'une Partie dans l'exercice d'une activité économique, commerciale, professionnelle ou sportive de cette personne;
+  2. ne soit pas vendu ou loué durant sa présence sur son territoire;
+  3. soit accompagné par une caution d'un montant qui ne peut pas dépasser les charges qui seraient autrement duues pour l'entrée ou l'importation finale, délivrable sur l'exportation du bien;
+  4. soit susceptible d'identification lors de son exportation;
+  5. soit exporté au moment du départ de la personne visée par le point (a), ou au cours d'une autre période, liée au but de l'admission temporaire, qu'une Partie pourrait établir, ou dans l'année, sauf extension;
+  6. soit admis dans une quantité qui n'excède pas ce qui est rasionnable pour l'usage prévu; et 
+  7. soit autrement admissible sur le territoire de la Partie sous ses lois. 
 
-3. Each Party, at the request of the person concerned, and if its customs authority considers the reasons for that request to be valid, shall extend the time limit for temporary admission beyond the period initially fixed.
+3. Chaque partie, à la requête de la personne concernée, et si son autorité douanière considère les raisons de cette requête valides, étend le délai pour l'admission temporaire au delà de la période fixée initiallement. 
 
-4. Each Party shall grant duty-free temporary admission for containers and pallets regardless of their origin, in use or to be used in the shipment of merchandise or goods in international traffic.
+4. Chaque Partie accorde une admission temporaire hors-taxe pour les containers et palettes sans égard à leur origine, utilisés ou à être utilisés pour le transport de marchandises ou de biens en trafic international. 
 
-5. If any condition that a Party imposes under paragraph 2 has not been fulfilled, that Party may apply the customs duty and any other charge that would normally be owed on the good plus any other charges or penalties provided for under its law.
+5. Si une condition imposée par une Partie sous le paragraphe 2 n'est pas remplie, cette Partie peut appliquer le droit de douaine et tout autre frais qui serait normalement dû sur les biens ainsi que tout autre frais ou sanctions prévues par sa loi. 
 
-6. Each party shall adopt and maintain procedures providing for the expeditious release of goods admitted under this Article. To the extent possible, such procedures shall provide that when such a good accompanies a national or resident of another Party who is seeking temporary entry, the good shall be releasable simultaneously with the entry of that national or resident.
+6. Chaque Partie adopte et maintient des procédures permettant la libération rapide des biens visés admis sous cet articles. Dans la mesure du possible, ces procédures prévoient que lorsqu'un bien accompagne un ressortissant ou un résident de l'autre Partie qui requiert l'entrée temporaire, le bien est délivrable simultanément à l'entrée de ce ressortissant ou de ce résident. 
 
 7. Each Party shall permit a good temporarily admitted under this Article to be exported through a customs port other than the port through which it was admitted.
 
